@@ -1,0 +1,626 @@
+22 March 2023
+
+New Journey to Digital Platform Government
+
+Korea’s Strategy for Government Innovation
+
+Jong-Sung Hwang, Ph.D
+
+President, National Information Society Agency
+
+
+Korea’s Governance for Digital Government
+
+Presidential Committee on
+Digital Platform Gov
+
+Trust & Security            Digital Gov                           ICT & Data              Budget
+
+
+Personal Information
+Protection Commission
+
+Ministry of the Interior
+and Safety (MOIS)
+
+Ministry of Science and
+ICT (MSIT)
+
+Ministry of Economy and
+Finance (MOEF)
+
+National Intelligence
+Service (NIS)
+
+
+National Information
+Resource Service (NIRS)
+
+NIA
+
+Policy, Financial, and Technical
+Support to central and local
+governments
+
+
+KLID
+
+Local Government Support
+
+Specialized Agencies
+
+ETRI, KISA, NIPA, K-Data,TTA …
+
+
+
+- Development of national agendas such as
+broadband Internet, smart city, digital gov,
+and Data Infrastructure
+
+- Drafts of national plannings
+
+- New Digital Vision (Korea President’s New
+York Initiatives 2022)
+
+Strategy
+Development
+
+- Development of AI Training Data(691 datasets)
+
+- Studies of Social Impacts
+
+- AI-driven use cases and pilot projects
+
+- (In progress) designation as National AI Center
+
+
+- Rank 1st in global evaluation, including
+open data and digital gov maturity
+
+- Data-driven policy & administration
+
+- Data sharing through data portal & my data
+
+- Planning of National Data Infrastructure
+
+DATA
+
+NIA’s
+
+Key
+Achievements
+
+Digital
+Government
+
+- National Key Data bases (’87-’96)
+
+- Integrated e-Government (’98- )
+
+- Smart Government (’14- )
+
+- Digital New Order and Digital Inclusion
+
+- New Model of Digital Platform
+Government
+
+
+- World’s first commercial 5G service
+
+- Public Wifi across the country
+
+- Commercialization of Quantum communication
+
+- Development of Future Network
+
+Network        Cloud
+
+- Planning of national data centers
+
+- Cloud migration of all government and public
+entities
+
+- Promotion of the use of SaaS in gov
+
+
+“As a leading country in the Advanced Digital Era, we will share our achievements with
+Global Citizens… South Korea will establish a new Digital Strategy and gather
+nationwide efforts to push for it,”
+
+President Yoon, Digital Vision Forum (2022.09.21.)
+
+
+Brief History of Korea’s Digital Government
+
+
+Period
+
+1987-1995
+
+1995-2000
+
+2001-2007
+
+2008-2012
+
+2013-2016
+
+2017-2022
+
+2022-Present
+
+Key Objectives
+
+• Computerization of National
+Basic Data
+
+• Information Superhighway
+(Broadband Internet)
+
+• Digital & Online Service
+
+• e-Government Development
+(Integration)
+
+• Ubiquitous computing
+
+• e-Government (governance)
+
+• Smart Government (Gov3.0)
+
+• The Fourth Industrial
+Revolution (FIR)
+
+• Digital Platform Government
+
+Key Organizations
+
+• National Computerization Board under
+President
+
+• National Computerization Agency
+
+• National Informatization Committee chaired
+by the Prime Minister
+
+• establish of Ministry of ICT (MIC)
+
+• special committees on e-Government under
+President
+
+• National Informatization Committee
+
+• dismantle of MIC and distributed governance
+
+• National Informatization Strategy Committee
+
+• Government 3.0 Committee
+
+• establish of Ministry of Science and ICT
+
+• Presidential Committee on the Fourth
+Industrial Revolution
+
+• National Data Policy Committee
+
+• Presidential Committee on Digital Platform
+Government
+
+Characteristics
+
+• Computerization of 5 key areas such as public administration,
+finance, education, national defense, security
+
+• Lay the foundation for e-government and data era
+
+• Enact of Framework Law on National Informatization
+
+• Integrated approach to digital government
+
+• World first nationwide roll-out of broadband Internet
+
+• Strong leadership from the President
+
+• Upgrade to integrated e-Government and services
+
+• Two separate governances for e-Gov and national ICT
+
+• Weakening of ICT governance with distributed organizations
+
+• Introduction of new ICT management such as CIO position
+and enterprise architecture
+
+• Focus on government innovation based on emerging
+technologies such as data analytics
+
+• Two separate governances for e-Gov and national ICT
+
+• Focus on national ICT for FIR
+
+• Development institutions and organization for data and AI
+
+• New government innovation model based on data
+infrastructure and close collaboration between the public
+and    the private sectors
+
+
+Changing Approaches to Digital Government Innovations
+
+Digitization                 Digitalization             Data-driven Innovation   Digital 
+Transformation
+
+
+Build data bases and
+computer networks
+
+Develop national infrastructure
+and Innovate services
+
+Make use of
+data resources
+
+Create new paradigm by
+merging digital and real worlds
+
+‘87             ‘90               ‘95               ‘00               ‘05               ‘10         
+      ‘15              ‘20                ‘25
+
+
+National
+Computerization Plan
+
+National Basic Computer Systems
+
+National Informatization Plans
+
+National Mobile Strategy
+e-Government
+
+National Data Strategy
+
+Gov 3.0
+
+Smart and DNA
+Strategy
+
+Data-driven Policy
+making and services
+
+National AI Initiatives
+
+Digital Platform
+Government
+
+Smart City and Smart Public Services
+
+Open Gov Data            My Data // AI Training Data
+
+
+Big Data Analytics
+
+Big Data
+Platform
+
+Data Infrastructure
+
+
+Gov Data Center
+
+Cloud Services
+
+Cloud Migration & MSA
+
+
+Broadband Internet
+
+Broadband Internet for Small Villages
+
+5G & Quantum Communication
+
+Digital Divide / Digital Support                                    Digital Basic Right
+
+
+Korea’s New Strategy: Digital Platform Government
+
+Citizens, Enterprises and Governments solve issues together,
+
+and create new value via a Digital Platform
+which connects all of their Data
+
+
+Full Opening up of Data
+and Services – enabling..
+
+Government-led →
+
+Public-Private Collaboration
+
+AI- and Data-based
+
+
+A system for
+Leveraging Private Sector
+
+Innovation Capacity
+
+Digital Platform
+Government
+
+Proactive & Personalized Services
+
+Science-based Policy Making
+
+Innovative Business Development
+
+
+Problems of e-Government Initiatives
+
+
+Ministries in silos
+
+Isolated data
+
+Fragmented services
+
+
+Data = Fuel for the data economy
+
+Disconnected services
+
+Administration           Judiciary           Municipalities
+
+
+17,060 information systems
+operated separately
+
+Data isolated within each systems
+
+Disconnected data =
+Disconnected service
+
+e-Government                        Digital Platform Government
+
+
+All-in-one Service Portal that
+
+provides services “you are looking for”
+
+Providing customized services proactively
+
+“before you look for”
+
+
+Key Changes by the Digital Platform Government
+
+Transformation in the role and function of government
+
+
+Connection
+
+Openness
+
+Cooperation
+
+
+Minitries in Silo
+
+Controlled by the Government
+
+Government-led
+
+
+Whole of Government
+
+Open and share resources
+
+Private-public cooperation
+
+
+Isolated Data by Each Ministry
+
+a      b      c
+
+X₁     X2       X₃
+
+Separate Systems by Each Ministry
+
+Data sharing/fusing
+
+a     b     c
+
+X
+
+Integrated System (cloud)
+
+Innovation
+Efficiency
+
+Value
+Cost
+
+V   Higher Value
+
+C   Lower Cost
+
+
+Differences of e-Gov and DPG
+
+
+e-Government   ➔
+
+Digital Platform
+Government
+
+
+Do Things Right
+process innovation
+
+networks of public organisations
+
+Do the Right Thing
+
+policy and structural innovation
+shared platforms by public and private
+
+
+(Quick Win Projects) My AI Assistant Service (decision support)
+
+Based on citizen’s consent, AI collects and analyzes data to
+
+preemptively recommend services that citizen can receive.
+
+
+Can I get unemployment be
+nefits?
+
+As-Is
+
+What scholarships can
+I get?
+
+To-Be (since March 2021)
+
+① Life cycle events           ② Data-driven eligibility check
+
+Marriage
+
+Employment
+
+Childbirth and
+Parenting
+
+③ Customized public service recommendation and provision
+
+
+“Even though there are various government services that can be received,
+many people are unable to receive benefits because they do not know,
+
+or they have to check whether they are eligible for support.”
+
+Pregnancy and Childbirth Support Services
+
+의료E비lec과tric다ity지a출nd Heating Cost Reduction Service
+
+Unemployment Benefits and
+Student Loan Assistance Services
+
+
+(Quick Win Projects) Digital Wallet 24 (shared platforms)
+
+Manage personalized services provided
+
+by the government with one app
+
+•  Development of a digital wallet service that integrates and mana
+ges public services such as mobile ID cards, electronic certificates
+
+, various bills, public my data, and welfare service notifications
+
+•  Opening of digital wallet service API to the private sector,
+enabling citizens to access services in private platforms such as
+Naver, Kakao, and Toss
+
+
+(Quick Win) Government-wide Data Sharing and Analysis
+
+Support data driven decision-making by gathering, sharing, and analyzing government data in one
+place without partitions between government agencies.
+
+•  Establishment of “National Data Sharing Platform” that manages data held by government agencies 
+so
+that they can be extracted, refined, processed, shared, and utilized
+
+•  Establishment of a pan-governmental data analysis system in which government agencies jointly 
+utilize
+data analysis resources
+
+
+Data Infrastructure is essential to Digital Transformation
+
+
+The increased consumption of data,
+especially shared data, has fueled the digital
+transformation
+
+Unique Data : Replicated Data
+
+Source: IDC
+
+2020        1:9
+
+2024        1:10
+
+Sharing and reuse of data enables digital
+transformation
+
+Why we need
+data infrastructure?
+
+Is data
+Universal or Local?
+
+
+Data Infrastructure needed to significantly reduce data
+transaction costs
+
+100
+
+20%
+
+Data Use
+
+75
+
+
+50
+
+80%
+
+Data Preparation
+
+25
+
+Data Infrastructure
+
+80%
+
+Data Use
+
+
+0
+
+Without Data Infra
+
+20%
+
+Data Preparation
+
+With Data Infra
+
+
+Data Infrastructure for Digital Platform Government
+
+basic processes and common services connecting players
+across the whole cycle of digital platform government
+
+Data Providers              Intermediaries               Data Users               Service Users
+
+Data Infrastructure
+
+
+ID, Authentication
+& Trust
+
+Federated Data
+Catalog & Meta Data
+
+Sovereign Data
+Exchange
+
+Compliance      Platform of Platforms
+
+& Testbeds
+
+
+Thank you
+
